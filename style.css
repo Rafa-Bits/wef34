@@ -1,0 +1,4 @@
+body {color: rgb(255, 255, 255);background-color:firebrick;}
+#resultObjectName {color: cornflowerblue;}
+#resultObjectAccuracy {color: cadetblue;}
+#camera {width: 350px;height: 300px;border: 3px;}
